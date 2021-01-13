@@ -1,0 +1,208 @@
+# Blender MTL File: 'fireplace.blend'
+# Material Count: 19
+
+newmtl Brick
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Clock
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_BGE_Clock_CYCLES.zip\\textures\\Uhr_ohne_Zeiger.jpg
+
+newmtl Clock_Uhr_ohne_Zeiger.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Travis\AppData\Local\Temp\Temp1_BGE_Clock_CYCLES.zip\textures\Uhr_ohne_Zeiger.jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.328169 0.328169 0.328169
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Travis\AppData\Local\Temp\Temp1_BGE_Clock_CYCLES.zip\textures\steel.jpg
+map_Bump D:\\Daten_\\10_Gutshaus\\001_Neu\\Modelle\\can\\Blendswap\\textures\\steel_DH_nor.png
+map_Ks D:\\Daten_\\10_Gutshaus\\001_Neu\\Modelle\\can\\Blendswap\\textures\\steel_DH.jpg
+
+newmtl Material.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl bark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl black
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl boat_paintings
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Travis\Downloads\Blender Textures\boat_paintings.jpg
+
+newmtl conglomerado
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.994455 0.915051 0.606358
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.200000
+d 1.000000
+illum 1
+
+newmtl deer_painting
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Travis\Downloads\Blender Textures\deer_painting.jpg
+
+newmtl fireplace
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl log_end
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl picture
+Ns 407.843137
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.833772 0.833772 0.833772
+Ke 0.000000 0.000000 0.000000
+Ni 1.200000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_frames_blend.zip\\elephant.jpg
+
+newmtl vase
+Ns 1.960784
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.321865 0.321865 0.321865
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Dennis Haupt\\Desktop\\textur 17.tga.jpg
+refl C:\\Users\\Dennis Haupt\\Desktop\\textur 17.tga.jpg
+
+newmtl vase.001
+Ns 1.960784
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.321865 0.321865 0.321865
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Dennis Haupt\\Desktop\\textur 17.tga.jpg
+refl C:\\Users\\Dennis Haupt\\Desktop\\textur 17.tga.jpg
+
+newmtl wood_sq1
+Ns 96.078431
+Ka 0.600000 0.600000 0.600000
+Kd 0.523938 0.199552 0.077713
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.150000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_frames_blend.zip\\burlwood2_tileable.jpg
+map_Kd C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_frames_blend.zip\\burlwood2_tileable.jpg
+
+newmtl wood_sq1_vert
+Ns 96.078431
+Ka 0.600000 0.600000 0.600000
+Kd 0.523938 0.199552 0.077713
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.150000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_frames_blend.zip\\burlwood2_tileable.jpg
+map_Kd C:\\Users\\Travis\\AppData\\Local\\Temp\\Temp1_frames_blend.zip\\burlwood2_tileable.jpg

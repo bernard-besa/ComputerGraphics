@@ -1,0 +1,14 @@
+﻿Source.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutIdleFunc@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutKeyboardFunc@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutReshapeFunc@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+Source.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+C:\Users\Beletristika\source\repos\rg_lab2\freeglut-3.0.0\lib\x64\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Beletristika\source\repos\rg_lab2\glew-2.2.0\lib\Release\x64\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Beletristika\source\repos\rg_lab2\assimp\lib\assimp-vc142-mtd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Beletristika\source\repos\rg_lab2\Debug\rg_lab2.exe : fatal error LNK1120: 10 unresolved externals

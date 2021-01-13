@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Beletristika\source\repos\rg_lab2\rg_lab2\Source.cpp(56,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Beletristika\source\repos\rg_lab2\rg_lab2\Source.cpp(103,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beletristika\source\repos\rg_lab2\rg_lab2\Source.cpp(125,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Beletristika\source\repos\rg_lab2\rg_lab2\Source.cpp(136,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Beletristika\source\repos\rg_lab2\rg_lab2\Source.cpp(480,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  rg_lab2.vcxproj -> C:\Users\Beletristika\source\repos\rg_lab2\x64\Debug\rg_lab2.exe
